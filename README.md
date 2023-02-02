@@ -1,8 +1,12 @@
 # maxma233.github.io
 
-## Example Page 
+## Github Example Page 
 
-Hello ! This is a example page that I created for CS-HU 250:)
+###### Hello ! This is a example page that I created for CS-HU 250:)
+###### This page is host by [maxma233.github.io]
 
-[view my github profile](https://github.com/maxma233)
+
+[view github profile](https://github.com/maxma233)
+
+
 
