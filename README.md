@@ -8,7 +8,7 @@ This page is host at [maxma233.github.io](maxma233.github.io)
 
 
 
-[view github profile](https://github.com/maxma233)
+[view My Github Profile](https://github.com/maxma233)
 
 
 
